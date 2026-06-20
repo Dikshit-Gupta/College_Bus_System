@@ -1,0 +1,54 @@
+# ======================
+# Python / Django
+# ======================
+
+__pycache__/
+*.py[cod]
+*.pyc
+*.sqlite3
+*.log
+
+# Environment variables
+.env
+
+# Django files
+media/
+staticfiles/
+
+
+# ======================
+# Virtual Environment
+# ======================
+
+env/
+venv/
+
+
+# ======================
+# React Native
+# ======================
+
+node_modules/
+
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+
+.metro/
+
+
+# ======================
+# IDE
+# ======================
+
+.vscode/
+.idea/
+
+
+# ======================
+# OS
+# ======================
+
+.DS_Store
+Thumbs.db
